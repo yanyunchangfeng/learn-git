@@ -11,7 +11,7 @@
 
 ##  git
 
-1.  [lesson1](src/assets/img/lesson1.png)  
+1.  [lesson1-8](src/assets/img/lesson1.png)  
 
 ## 我的个人博客  
 
