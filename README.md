@@ -14,6 +14,7 @@
 1.  [lesson1-15](src/assets/img/lesson1-15.png)  
 2.  [lesson16-20](src/assets/img/lesson16-20.png)  
 3.  [lesson21-25](src/assets/img/lesson21-25.png)  
+4.  [lesson26-27](src/assets/img/lesson26-30.png)  
 
 ## 我的个人博客  
 
