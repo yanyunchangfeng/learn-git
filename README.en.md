@@ -10,9 +10,12 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 ##  git
 
 
-1.  [lesson1-15](src/assets/img/lesson1.png)  
+1.  [lesson1-15](src/assets/img/lesson1-15.png)  
 2.  [lesson16-20](src/assets/img/lesson16-20.png)  
 3.  [lesson21-25](src/assets/img/lesson21-25.png)  
+4.  [lesson26-30](src/assets/img/lesson26-30.png)  
+5.  [lesson31-35](src/assets/img/lesson31-35.png)  
+6.  [lesson36-40](src/assets/img/lesson36-40.png) 
 
 
 ## Personal Blog  
