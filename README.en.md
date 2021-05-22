@@ -5,7 +5,7 @@
 </p>
 
 ##  Description
-Hello, I'm Xiao dong Xu. Pen name is [Yan Yun Chang feng](https://yanyunchangfeng.github.io), It was given by Da Mo Qiong qiu in 2019-03-16 21:22. 
+Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io), It was given by Da Mo Qiong qiu in 2019-03-16 21:22. 
 Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - Long winds of tens of thousands of miles, belowing Yumenguan.
 ##  git
 
@@ -38,14 +38,10 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 1.  [Yan Yun Chang feng's Zhi Hu](https://zhihu.com/people/hbxyxuxiaodong)  
 2.  [Yan Yun Chang feng's column of Zhi Hu](https://zhuanlan.zhihu.com/yanyunchangfeng) 
 3.  [Yan Yun Chang feng's github](https://github.com/yanyunchangfeng)  
-4.  [Yan Yun Chang feng's gitee](https://gitee.com/yanyunchangfeng)  
-5.  [Yan Yun Chang feng's twitter](https://twitter.com/yanyunchangfeng)  
-6.  [Yan Yun Chang feng's medium](https://medium.com/@yanyunchangfeng)  
-7.  [Yan Yun Chang feng's facebook](https://facebook.com/yanyunchangfeng)  
+4.  [Yan Yun Chang feng's gitee](https://gitee.com/yanyunchangfeng)   
+6.  [Yan Yun Chang feng's medium](https://medium.com/@yanyunchangfeng)   
 8.  [Yan Yun Chang feng's stackoverflow](http://stackoverflow.com/users/11366314)  
 9.  [Yan Yun Chang feng's npm](https://npmjs.com/~yanyunchangfeng)  
-10. [Yan Yun Chang feng's linkedin](https://www.linkedin.com/in/yanyunchangfeng)  
-11. [Yan Yun Chang feng's youtube](https://www.youtube.com/channel/UCaz2-l8Bd8tTBf1q-2ww7VA)  
 12. [Yan Yun Chang feng's gmail](mailto:yanyunchangfeng@gamil.com)
 
 ## LICENSE

@@ -5,7 +5,7 @@
 </p>
 
 ##  介绍
-你好，我是徐晓东，笔名[燕云长风](https://yanyunchangfeng.github.io) 。大漠穷秋于 2019-03-16 21:22 赠此笔名。   
+你好，我是[燕云长风](https://yanyunchangfeng.github.io) 。大漠穷秋于 2019-03-16 21:22 赠此笔名。   
 寓意：结合李白著名的边塞诗《关山月》取【燕云长风】—— 长风几万里，吹度玉门关。
 
 
@@ -38,14 +38,10 @@
 1.  [燕云长风知乎](https://zhihu.com/people/hbxyxuxiaodong)  
 2.  [燕云长风知乎专栏](https://zhuanlan.zhihu.com/yanyunchangfeng) 
 3.  [燕云长风github](https://github.com/yanyunchangfeng)  
-4.  [燕云长风gitee](https://gitee.com/yanyunchangfeng)  
-5.  [燕云长风twitter](https://twitter.com/yanyunchangfeng)  
+4.  [燕云长风gitee](https://gitee.com/yanyunchangfeng)   
 6.  [燕云长风medium](https://medium.com/@yanyunchangfeng)  
-7.  [燕云长风facebook](https://facebook.com/yanyunchangfeng)  
 8.  [燕云长风stackoverflow](http://stackoverflow.com/users/11366314)  
-9.  [燕云长风npm](https://npmjs.com/~yanyunchangfeng)  
-10. [燕云长风linkedin](https://www.linkedin.com/in/yanyunchangfeng)  
-11. [燕云长风youtube](https://www.youtube.com/channel/UCaz2-l8Bd8tTBf1q-2ww7VA)  
+9.  [燕云长风npm](https://npmjs.com/~yanyunchangfeng)   
 12. [燕云长风gmail](mailto:yanyunchangfeng@gamil.com)
 
 ## 开源许可证
