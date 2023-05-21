@@ -5,7 +5,7 @@
 </p>
 
 ##  Description
-Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io), It was given by Da Mo Qiong qiu in 2019-03-16 21:22. 
+Hello, I'm [Yan Yun Chang feng](https://yanyunchangfeng.github.io).
 Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - Long winds of tens of thousands of miles, belowing Yumenguan.
 ##  git
 
@@ -19,30 +19,22 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 7.  [lesson41-45](src/assets/img/lesson41-45.png)  
 8.  [lesson46-50](src/assets/img/lesson46-50.png) 
 9.  [lesson51-55](src/assets/img/lesson51-55.png)  
-10.  [lesson56-62](src/assets/img/lesson56-62.png)  
+10. [lesson56-62](src/assets/img/lesson56-62.png)  
 
 
-## Personal Blog  
 
-* [Yan Yun Chang feng](https://yanyunchangfeng.github.io) 
-
-## Series Project
-
-1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：Mermaid, this is a microblogging system with a front end based on Angular 7.0 + PrimeNG 7.1.0（GVIP  gitee most valuable open source project 3192 ☆)
-2. [NiceFish-React](https://github.com/damoqiongqiu/NiceFish-React)：This is the implementation of the React version, the interface looks exactly the same. Using React Hooks version 16.8.3, TypeScript, Ant Design component library, and Bootstrap v4.2.1 development.  (7 ☆)
-3. [OpenWMS-Frontend](https://gitee.com/mumu-osc/OpenWMS-Frontend)：OpenWMS project with a front end based on Angular 7.0 + PrimeNG 7.1.0。  (Recommended 200 ☆)
-4. [nicefish-spring-cloud](https://gitee.com/mumu-osc/nicefish-spring-cloud)：This is the server code for NiceFish, based on SpringCloud. Some basic functions have been completed, such as SpringSecurity+OAuth2+JWT to implement SSO, paged queries for articles, users, comments, etc. If you need to interface with this backend code, check out the for-spring-cloud branch of the project. (Recommended 117 ☆) 
+## Series project
+| name | description|
+|----|----|
+| NiceFish | This is a series of projects whose goal is to demonstrate the development mode of front-end and back-end separation: various development modes in front-end browsers, mobile terminals, and Electron environments. There are two versions of the backend: SpringBoot version and SpringCloud version  http://gitee.com/mumu-osc/NiceFish/ |
+| NiceFish-React | This is the implementation of the React version 18.0.0, developed using Ant Design component library, inversify library, and Bootstrap version 4.2.1 https://gitee.com/mumu-osc/NiceFish-React|
+| NiceBlogElectron | https://github.com/damoqiongqiu/NiceBlogElectron, an Electron-based desktop project that packages NiceFish with Electron as a desktop-running program. This is provided by the front-end friends of ZTE . I have a fork and there are several version numbers of the node module. If you are researching how to use Electron to develop desktop applications, please refer to this project.|
 
 ## Social Homepage 
 
 1.  [Yan Yun Chang feng's Zhi Hu](https://zhihu.com/people/hbxyxuxiaodong)  
-2.  [Yan Yun Chang feng's column of Zhi Hu](https://zhuanlan.zhihu.com/yanyunchangfeng) 
-3.  [Yan Yun Chang feng's github](https://github.com/yanyunchangfeng)  
-4.  [Yan Yun Chang feng's gitee](https://gitee.com/yanyunchangfeng)   
-6.  [Yan Yun Chang feng's medium](https://medium.com/@yanyunchangfeng)   
-8.  [Yan Yun Chang feng's stackoverflow](http://stackoverflow.com/users/11366314)  
-9.  [Yan Yun Chang feng's npm](https://npmjs.com/~yanyunchangfeng)  
-12. [Yan Yun Chang feng's gmail](mailto:yanyunchangfeng@gamil.com)
+2.  [Yan Yun Chang feng's github](https://github.com/yanyunchangfeng)  
+3.  [Yan Yun Chang feng's gitee](https://gitee.com/yanyunchangfeng)  
 
 ## LICENSE
 
